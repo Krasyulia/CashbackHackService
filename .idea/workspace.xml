@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea93f8aa-45e3-434a-bc7c-4a4a8ee11a88" name="Changes" comment="create project" />
+    <list default="true" id="ea93f8aa-45e3-434a-bc7c-4a4a8ee11a88" name="Changes" comment="testng tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -193,7 +193,21 @@
       <option name="project" value="LOCAL" />
       <updated>1674408113891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="testng tests">
+      <created>1674410776549</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674410776549</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testng tests">
+      <created>1674410786609</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674410786609</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,6 +223,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create project" />
+    <MESSAGE value="testng tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="testng tests" />
   </component>
 </project>
